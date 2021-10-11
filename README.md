@@ -33,9 +33,10 @@ Os desafios serão liberados pontualmente ao meio-dia (12h) dos 3 dias do desafi
 
 ## Dicas e boas práticas
 
-* Escrita de código legível
-* Reprodutibilidade e portabilidade
-* `README.md`
+* Escrita de código legível. Caso falhe em se expressar pelo código pode-se adicionar comentários.
+* Reprodutibilidade e portabilidade. Preocupe-se em descrever os passos usados em sua análise e, secundariamente, uma maneira para que todas as ferramentas necessárias sejam facilmente instaladas em um novo ambiente. Exemplos: Docker e Conda.
+
+* `README.md` explicando como configurar o ambiente e rodar seu código, assim como quais são os arquivos de input e output esperados, é obrigatório. Explicações de como o código funciona e o que ele faz também são bem-vindas, mas não obrigatórias.
 
 ## Resultados
 
