@@ -1,33 +1,36 @@
-## Genotipagem de um cromossomo
+# Genotipagem de um cromossomo
 
-O genoma humanos é muito longo, no sentido de que possui muitos nucleotideos. Isso torna necessário o uso de muitos recursos computacionais para que a análise seja concluida em tempo hábil.
+>**Objetivo:** Identificar as variantes presentes nos dados fornecidos
+
+>**Tempo de duração:** 12 horas
+
+Nosso genoma (sim, de todos *Homo sapiens*) é muito grande, no sentido de que possui muitos nucleotideos em sua composição. Isso torna necessário o uso de muitos recursos computacionais para que a análise seja concluida em tempo hábil.
 
 <p align="center">
-  <img style="float: right;" src="img/bioninja-genome-sizes.jpeg" alt="Tamanho dos genomas"/>
+  <img style="float: right;" src="../img/bioninja-genome-sizes.jpeg" alt="Tamanho dos genomas"/>
 </p>
 
-A fim de tornar o desafio mais democrático optamos por disponibilizar apenas parte dos dados. Um genoma humano padrão possui 22 pares de cromossomos autossomicos e 1 par (X e Y) de cromossomos sexuais.
+Imagem de: [https://ib.bioninja.com.au](https://ib.bioninja.com.au/standard-level/topic-3-genetics/32-chromosomes/genome-size.html)
 
-Nesta etapa iremos disponiblizar dados referentes ao cromossomo 22. Não é o menor de nossos autossomicos mas está entre eles.
+A fim de tornar este desafio mais democrático optamos por disponibilizar apenas parte dos dados. Nesta etapa iremos disponiblizar os dados referentes ao cromossomo 22. Um genoma humano padrão possui 22 pares de cromossomos autossomicos e 1 par (X e Y) de cromossomos sexuais.
 
-> Curiosidade: existe certo debate a respeito do termo correto para nomear esta etapa da análise. Não parece existir consenso mas existe uma discussão interessante no fórum Biostars. [Confira esta resposta caso queira mais detalhes](https://www.biostars.org/p/277927/#278051).
+O cromossomo 22 não é o menor de nossos autossomicos, mas está entre eles.
 
-Objetivo: Identificar as variantes presentes nos dados fornecidos
-Tempo de duração: 12 horas
+> Não deixe de conferir os links para mais informações!
 
-### Dados fornecidos
+## 📦 Dados fornecidos
 
 * 1 FASTA: sequencia de nucleotídeos do cromossomo 22. A mesma disponível em bancos publicos. Adicionaremos aqui apenas para conveniência.
     - Este arquivo é popularmente conhecido como "Genoma Referencia" quando contém os dados de todos os cromossomos da espécie. Caso queira baixar, ou esteja apenas curiosos a respeito, de uma olhada nos links no final desta página.
 * 1 par de FASTQs: leituras de sequenciamento Illumina, biblioteca de sequenciamento preparada com kit de exomas.
 * VCF - algumas variantes que esperamos que estejam no seu resultado final. Se elas estiverem ausentes é sinal de que algo na sua análise pode estar incorreto.
 
-### Tarefa
+## 👷 Tarefa
 
 Será divulgada no dia do desafio.
 
 
-### Links
+## 🔗 Links
 
 - [Google Life Sciences - Genomas referência](https://cloud.google.com/life-sciences/docs/resources/public-datasets/reference-genomes)
   - Já faz algum tempo que o Google vem investindo no desenvolvimento de produtos dedicados a problemas biológicos. Neste link é possivel encontrar diferentes versões do genoma humano para download, bem como uma tabela com os dados e os metadados de projetos como 1,000 Genomas - no menu lateral.
@@ -36,4 +39,4 @@ Será divulgada no dia do desafio.
   - Em 2021 pesquisadores combinaram diversas tecnicas de sequenciamento para completar regiões problemáticas do genoma humano. Neste trabalho existem informações interessantes sobre as principais diferenças em relação a versão que hoje é a mais amplamente utilizada - a GRCh38.
 
 - [Biostars - Discussão sobre genotipagem/chamada de variantes](https://www.biostars.org/p/277927)
-  - Existe uma resposta bastante informativa onde Kevin Blighe discorre sobre as principais diferenças nos termos com base na experiencia que ele tem. Também tem um apontamento importante sobre o contexto populacional que existe por trás da definição de SNP (Single Nucleotide Polimorfism). Nem toda variante é um SNP!
+  - Existe uma resposta bastante informativa onde Kevin Blighe discorre sobre as principais diferenças nos termos com base na experiencia dele. Também tem um apontamento importante sobre o contexto populacional que existe por trás da definição de SNP (Single Nucleotide Polimorfism). Nem toda variante é um SNP!
