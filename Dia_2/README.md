@@ -1,6 +1,6 @@
 # Controle de qualidade
 
->**Objetivo:** Evitar que um dado ruim atrapalhe suas interpretações ao final da análise. Evitar [*"garbage in, garbage out"*](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)
+>**Objetivo:** Evitar que um dado ruim atrapalhe suas interpretações ao final da análise. Evitar o problema [*"garbage in, garbage out"*](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)
 
 >**Tempo de duração:** 12 horas
 
@@ -40,6 +40,13 @@ Caso você tenha mais experiência fora da computação e esteja embarcando apen
 * VCF: variantes identificadas na etapa anterior deste desafio.
 * BAM: alinhamento das leituras de sequenciamento contra o cromossomo 22.
 
-## Tarefa
+## 👷 Tarefa
 
 Será divulgada no dia do desafio.
+
+
+## 🔗 Links
+
+- [A cartoon guide to bioinformatics by a novice coder](https://www.nature.com/articles/d41586-021-01485-y)
+
+- [*"garbage in, garbage out"*](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out)

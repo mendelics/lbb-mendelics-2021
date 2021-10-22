@@ -1,9 +1,17 @@
-## Dia 3 - Investigando as variantes
+## Investigando as variantes
 
-### Dados utilizados
+>**Objetivo:** Adicionar informações às variantes identificadas a fim de facilitar a interpretação dos resultados.
 
-* VCF do cromossomo 22 obtido.
+>**Tempo de duração:** 12 horas
 
-### Tarefa
+## 📜 Introdução
+
+## 📦 Dado gerado em [Controle de qualidade](../Dia_2/README.md)
+
+* VCF com as variantes identificadas
+
+## 👷 Tarefa
 
 Será divulgada no dia do desafio.
+
+## 🔗 Links
