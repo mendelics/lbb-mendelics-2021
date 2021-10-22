@@ -6,11 +6,11 @@
 
 ## 📜 Introdução
 
-Nosso genoma (sim, de todos *Homo sapiens*) é muito grande, no sentido de que possui muitos nucleotideos em sua composição. Isso torna necessário o uso de muitos recursos computacionais para que análises sejam concluidas em tempo hábil.
+Nosso genoma (sim, de todos *Homo sapiens*) é grande, no sentido de que possui muitos nucleotideos em sua composição. Questões que parecem simples, como por exemplo: "Essa pequena sequencia existe no genoma?" ou "Consigo alinhar de alguma forma essa sequencia com o genoma referencia?", se tornam computacionalmente muito intensas.
 
 
 <p align="center">
-  <img style="float: right;" src="../img/bioninja-genome-sizes.jpeg" alt="Tamanho dos genomas">
+  <img style="float: right;" width="600px" src="../img/bioninja-genome-sizes.jpeg" alt="Tamanho dos genomas">
 </p>
 
 Imagem de: [https://ib.bioninja.com.au](https://ib.bioninja.com.au/standard-level/topic-3-genetics/32-chromosomes/genome-size.html)
@@ -19,8 +19,9 @@ A fim de tornar este desafio mais democrático optamos por disponibilizar apenas
 
 O cromossomo 22 não é o menor de nossos autossomicos, mas está entre eles.
 
+Nesta primeira fase do nosso desafio iremos identificar todas as variantes presentes na amostra que fornecemos (FASTQs). Esta etapa é importante pois é com os resultados dela que iremos nos aprofundar na busca pelas variantes potencialmente patogênicas que podem estar presentes. Para mais informações gerais sobre testes genéticos leia o texto de nosso blog: [Efeito Angelina Jolie e testes geneticos](https://blog.mendelics.com.br/efeito-angelina-jolie-e-testes-geneticos-cancer-de-mama/).
 
-> Não deixe de conferir os links para mais informações!
+> Não deixe de conferir os outros links para mais informações!
 
 ## 📦 Dados fornecidos
 
