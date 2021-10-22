@@ -4,10 +4,13 @@
 
 >**Tempo de duração:** 12 horas
 
-Nosso genoma (sim, de todos *Homo sapiens*) é muito grande, no sentido de que possui muitos nucleotideos em sua composição. Isso torna necessário o uso de muitos recursos computacionais para que a análise seja concluida em tempo hábil.
+## 📜 Introdução
+
+Nosso genoma (sim, de todos *Homo sapiens*) é muito grande, no sentido de que possui muitos nucleotideos em sua composição. Isso torna necessário o uso de muitos recursos computacionais para que análises sejam concluidas em tempo hábil.
+
 
 <p align="center">
-  <img style="float: right;" src="../img/bioninja-genome-sizes.jpeg" alt="Tamanho dos genomas"/>
+  <img style="float: right;" src="../img/bioninja-genome-sizes.jpeg" alt="Tamanho dos genomas">
 </p>
 
 Imagem de: [https://ib.bioninja.com.au](https://ib.bioninja.com.au/standard-level/topic-3-genetics/32-chromosomes/genome-size.html)
@@ -15,6 +18,7 @@ Imagem de: [https://ib.bioninja.com.au](https://ib.bioninja.com.au/standard-leve
 A fim de tornar este desafio mais democrático optamos por disponibilizar apenas parte dos dados. Nesta etapa iremos disponiblizar os dados referentes ao cromossomo 22. Um genoma humano padrão possui 22 pares de cromossomos autossomicos e 1 par (X e Y) de cromossomos sexuais.
 
 O cromossomo 22 não é o menor de nossos autossomicos, mas está entre eles.
+
 
 > Não deixe de conferir os links para mais informações!
 
