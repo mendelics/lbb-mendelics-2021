@@ -44,4 +44,4 @@ Será divulgada no dia do desafio.
   - Em 2021 pesquisadores combinaram diversas tecnicas de sequenciamento para completar regiões problemáticas do genoma humano. Neste trabalho existem informações interessantes sobre as principais diferenças em relação a versão que hoje é a mais amplamente utilizada - a GRCh38.
 
 - [Biostars - Discussão sobre genotipagem/chamada de variantes](https://www.biostars.org/p/277927)
-  - Existe uma resposta bastante informativa onde Kevin Blighe discorre sobre as principais diferenças nos termos com base na experiencia dele. Também tem um apontamento importante sobre o contexto populacional que existe por trás da definição de SNP (Single Nucleotide Polimorfism). Nem toda variante é um SNP!
+  - Existe uma resposta bastante informativa onde Kevin Blighe discorre sobre as principais diferenças nos termos com base na experiencia dele. Também tem um apontamento importante sobre o contexto populacional que existe por trás da definição de SNP (Single Nucleotide Polymorfism). Nem toda variante é um SNP!
