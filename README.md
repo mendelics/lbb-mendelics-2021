@@ -1,10 +1,14 @@
 # Desafio LBB-Mendelics 2021
 
+<p align="center">
+  <img style="float: right;" src="img/mendelics.png" alt="Ilustração Mendelics">
+</p>
+
 Parte da nossa rotina de trabalho na Mendelics é identificar variantes presentes em centenas de pacientes para auxiliar os médicos na tarefa de encontrar a causa genética de algumas patologias.
 
 Nossa proposta para o desafio LBB 2021 consiste em executar parte dessa rotina e responder algumas perguntas baseadas nos resultados encontrados durante suas análises.
 
-## Como será o desafio?
+## 💭 Como será o desafio?
 
 O desafio consiste em 3 etapas. Ao longo da semana iremos disponibilizar os dados e mais informações nos respectivos diretórios. 
 
