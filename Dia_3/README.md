@@ -2,15 +2,15 @@
 
 >**Objetivo:** Adicionar informações às variantes identificadas a fim de facilitar a interpretação dos resultados.
 
->**Tempo de duração:** 12 horas
+>**Tempo de duração:** 6 horas
 
 ## 📜 Introdução
 
 Existem diversos bancos de dados com informações genéticas a respeitos de variantes conhecidas do genoma humano. Alguns são focados em estudos sobre populações, como o [gnomAD](https://gnomad.broadinstitute.org/), enquanto outros são dedicados a relacionar variantes à doenças, como o [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/).
 
-Em um exoma padrão podemos ter entre 50 a 100 mil variantes. Conseguimos reduzir este número usando informações de bancos de dados como os citados acima. Além destes bancos existem ferramentas, como o [SnpEff](http://pcingola.github.io/SnpEff/) e o [vep](https://www.ensembl.org/info/docs/tools/vep/index.html), que adicionam informações a cada uma de suas variantes, como por exemplo: se a variante causa um efeito sinonimo ou não sinonimo na proteína.
+Em um exoma padrão podemos ter entre 50 a 100 mil variantes. Conseguimos reduzir este número usando informações de bancos de dados como os citados acima. Além destes bancos existem ferramentas, como o [SnpEff](http://pcingola.github.io/SnpEff/) e o [VEP](https://www.ensembl.org/info/docs/tools/vep/index.html), que adicionam informações a cada uma de suas variantes, como por exemplo: se a variante causa um efeito sinonimo ou não sinonimo na proteína.
 
-O Ensembl oferece uma ferramenta online muito conveniente, pois permite consultar pontualmente algumas informações, como por exemplo: qual a coordenada de determinado gene, se a variante já é conhecida, se já foi anotada pelo vep, entre várias outras informações. Todas as informações desta ferramenta estão disponiveis em [https://rest.ensembl.org/](https://rest.ensembl.org/).
+O Ensembl oferece uma ferramenta online muito conveniente, pois permite consultar pontualmente algumas informações, como por exemplo: qual a coordenada de determinado gene, se a variante já é conhecida, ou se já foi anotada pelo vep, entre várias outras informações. Todas as informações desta ferramenta estão disponiveis em [https://rest.ensembl.org/](https://rest.ensembl.org/).
 
 > Caso tenha ficado curioso sobre a palavra REST, veja este texto da [RedHat - API REST](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api). Este conceito é bastante usado quando desenvolvemos serviços que respondem via internet.
 

@@ -6,7 +6,7 @@
 
 ## 📜 Introdução
 
-Nosso genoma (sim, de todos *Homo sapiens*) é grande, no sentido de que possui muitos nucleotideos em sua composição. Questões que parecem simples, como por exemplo: "Essa pequena sequencia existe no genoma?" ou "Consigo alinhar de alguma forma essa sequencia com o genoma referencia?", se tornam computacionalmente muito intensas.
+Nosso genoma (sim, de todos *Homo sapiens*) é grande, no sentido de que possui muitos nucleotideos em sua composição. Questões que parecem simples, como por exemplo: "Essa pequena sequencia existe no genoma?" ou "Consigo alinhar de alguma forma essa sequencia com o genoma refêrencia?", se tornam computacionalmente muito intensas.
 
 
 <p align="center">
