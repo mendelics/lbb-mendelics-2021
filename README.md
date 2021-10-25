@@ -18,6 +18,16 @@ O desafio consiste em 3 etapas. Ao longo da semana iremos disponibilizar os dado
 
 [Dia 3 - Investigando as variantes](Dia_3/README.md)
 
+
+## 🗃 Material de apoio
+
+- Organização do trabalho
+
+- Pontuação
+
+- Prêmios
+
+
 <!-- 
 ### Parte 1 - Genotipar o cromossomo 22 de uma de nossas amostras - 1° dia
 
