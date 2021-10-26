@@ -44,6 +44,7 @@ Note que essas linguagens acabam adicionando uma camada a mais na complexidade d
 
 **Resumindo:** essas linguagens te oferecem reprodutibilidade, portabilidade e escalabilidade. Se tiver interesse consulte as documentações para aprender mais ou veja o trabalho [Practical guide for managing large-scale human genome data in research (2020)](https://www.nature.com/articles/s10038-020-00862-1) para conhecer os cenários em que essas ferramentas brilham.
 
+>Para aprender mais sobre bioinformática visite a página [github.com/lmigueel/Bioinformatica](https://github.com/lmigueel/Bioinformatica/wiki), existem muitas dicas e pipelines que podem ser úteis em suas análises.
 
 ## 📌 Dependências do projeto
 
