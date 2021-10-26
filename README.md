@@ -12,16 +12,16 @@ Nossa proposta para o desafio LBB 2021 consiste em executar parte dessa rotina e
 
 O desafio consiste em 3 etapas. Ao longo da semana iremos disponibilizar os dados e mais informações nos respectivos diretórios. 
 
-[Dia 1 - Genotipagem de um cromossomo](Dia_1/README.md)
+- `28/10/2021` [Genotipagem de um cromossomo](Dia_1/README.md)
 
-[Dia 2 - Métricas de qualidade](Dia_2/README.md)
+- `29/10/2021` [Métricas de qualidade](Dia_2/README.md)
 
-[Dia 3 - Investigando as variantes](Dia_3/README.md)
+- `30/10/2021` [Investigando as variantes](Dia_3/README.md)
 
 
 ## 🗃 Material de apoio
 
-- Organização do trabalho
+- [Dicas para desenvolvimento](dicas-desenvolvimento.md)
 
 - Pontuação
 
