@@ -42,7 +42,7 @@ Caso você tenha mais experiência fora da computação e esteja embarcando apen
 
 ## 👷 Tarefa
 
-Será divulgada no dia do desafio.
+🚧 Será divulgada às 12h do dia 29/10/21 🚧
 
 
 ## 🔗 Links

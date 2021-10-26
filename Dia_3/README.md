@@ -22,7 +22,7 @@ Apesar de termos citado como exemplo algumas ferramentas, fique a vontade para e
 
 ## 👷 Tarefa
 
-Será divulgada no dia do desafio.
+🚧 Será divulgada às 12h do dia 30/10/21 🚧
 
 ## 🔗 Links
 

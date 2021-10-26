@@ -32,7 +32,7 @@ Nesta primeira fase do nosso desafio iremos identificar todas as variantes prese
 
 ## 👷 Tarefa
 
-Será divulgada no dia do desafio.
+🚧 Será divulgada às 12h do dia 28/10/21 🚧
 
 
 ## 🔗 Links
