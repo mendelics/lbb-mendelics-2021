@@ -1,12 +1,17 @@
 # Dicas para desenvolvimento
 
-Acesso rápido:
-- [Controle de versão](#controle-de-versão)
-- [Workflow de análise](#workflow-de-análise)
-- [Dependências do projeto](#dependências-do-projeto)
-- [Scripts customizados](#scripts-customizados)
+<p align="center">
+  <img width=400px src="img/dicas-desenvolvimento.png" alt="Ilustração Mendelics">
+</p>
 
-## Controle de versão
+Acesso rápido:
+- [Controle de versão](#📌-controle-de-versão)
+- [Workflow de análise](#📌-workflow-de-análise)
+- [Dependências do projeto](#📌-dependências-do-projeto)
+- [Scripts customizados](#📌-scripts-customizados)
+
+---
+## 📌 Controle de versão
 
 Utilize algum serviço para [controle de versão](https://www.atlassian.com/br/git/tutorials/what-is-version-control). Exemplos comuns são: GitHub e GitLab.
 
@@ -20,7 +25,7 @@ Explicar o funcionamento do Git foge um pouco ao escopo deste material, mas exis
 - [Como usar Git e Github na prática: Guia para iniciantes (YouTube)](https://www.youtube.com/watch?v=2alg7MQ6_sI)
 
 
-## Workflow de análise
+## 📌 Workflow de análise
 
 Existem diversas maneira de você organizar seu workflow (também chamado de pipeline). A mais simples delas é organizar tudo em um bash script junto com as instruções para a instalação das dependências, como neste exemplo:
 
@@ -37,10 +42,10 @@ As linguagens dedicadas a construção de workflows visam facilitar esse process
 
 Note que essas linguagens acabam adicionando uma camada a mais na complexidade a seu projeto e por isso você precisa avaliar se é algo que lhe será útil. Faça-se as perguntas: vou executar esta análise mais do que uma vez na vida? é importante que outras pessoas consigam reproduzir meu workflow? estou disposto a investir algumas horas no aprendizado disto? 
 
-Resumindo: essas linguagens te oferecem reprodutibilidade, portabilidade e escalabilidade. Se tiver interesse consulte as documentações para aprender mais ou veja o trabalho [Practical guide for managing large-scale human genome data in research (2020)](https://www.nature.com/articles/s10038-020-00862-1) para saber mais sobre os cenários que me essas ferramentas brilham.
+**Resumindo:** essas linguagens te oferecem reprodutibilidade, portabilidade e escalabilidade. Se tiver interesse consulte as documentações para aprender mais ou veja o trabalho [Practical guide for managing large-scale human genome data in research (2020)](https://www.nature.com/articles/s10038-020-00862-1) para saber mais sobre os cenários que me essas ferramentas brilham.
 
 
-## Dependências do projeto
+## 📌 Dependências do projeto
 
 Os workflows de análise costumam ter várias etapas de processamento. Imagine uma analise em que as leituras de sequenciamento primeiro passam por um programa para controle de qualidade (QC), posteriormente passam por uma etapa de alinhamento e depois algumas métricas deste alinhamento são extraidas. 
 
@@ -84,7 +89,7 @@ Cada vez mais, ferramentas como Miniconda e Docker vem sendo usadas para contorn
 - [Docker](https://docs.docker.com/) - diferente da solução com miniconda, esta exige permissão de administrador no computador em que for ser instalada.
 - [Ten simple rules for writing Dockerfiles for reproducible data science (2020)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008316) - Apenas para o caso de ser um aventureiro e quiser entender melhor a complexidade do mundo dos containers. Apesar do nome, acredito que não seja tão simples para quem ainda não é familiar com o problema.
 
-## Scripts customizados
+## 📌 Scripts customizados
 
 Algumas vezes precisaremos escrever instruções e optamos pela linguagem que mais nos sentimos confortáveis, geralmente para tarefas simples como organizar o dado de output de algum programa de controle de qualidade ou mesmo transformar um formato de arquivo em um outro.
 
