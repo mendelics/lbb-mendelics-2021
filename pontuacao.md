@@ -29,10 +29,8 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 | Caio Andrey Bezerra Januário          | -     | -     | -     |
 | Camyla Luiz Gomes da Silva            | -     | -     | -     |
 | Carlos Willian Dias Dantas            | -     | -     | -     |
-| Carlos Willian Dias Dantas            | -     | -     | -     |
 | Daniela Feliz Barbosa Guerreiro       | -     | -     | -     |
 | Daniela Varela da Silva               | -     | -     | -     |
-| Elaine Vieira Sales                   | -     | -     | -     |
 | Elaine Vieira Sales                   | -     | -     | -     |
 | Fabrício Alef Santos de Jesus         | -     | -     | -     |
 | Felipe Vaz Peres                      | -     | -     | -     |
