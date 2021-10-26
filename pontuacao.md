@@ -12,7 +12,7 @@ Iremos avaliar as respostas segundo dois critérios:
 
 Quando tivermos terminado as avaliações iremos divulgar - via LBB - um ranking com os 20 selecionados.
 
-Vale ressaltar que **todas as etapas da competição são eliminatórias**, isto é: se não for entregue pelo menos os elementos solicitados em cada tarefa (exemplo: arquivo X, texto com informações Y) o candidato não será avaliado nas próximas etapas.
+Vale ressaltar que **todas as etapas da competição são eliminatórias**, isto é: se não forem entregues pelo menos os elementos solicitados em cada tarefa (exemplo: arquivo X, texto com informações Y) o candidato não será avaliado nas próximas etapas.
 
 ## Recebimento
 

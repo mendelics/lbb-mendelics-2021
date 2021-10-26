@@ -14,7 +14,7 @@ Na culinária é bom termos ingredientes de qualidade para prepararmos bons prat
 
 Na etapa anterior pedimos para que fossem identificadas as variantes na amostra fornecida. Isso deve ter resultado em um arquivo com as variantes e um outro arquivo com o alinhamento das leituras de sequenciamento sobre o genoma referência usado (cromossomo 22).
 
-Nesta etapa você deverá usar ferramentas que te possibilitem as perguntas citadas acima. Se você já trabalha com bioinformática é bem possível que já tenha em seu cinto de ferramentas as de sua preferência. Caso este não seja o caso, sinta-se livre para buscar a que melhor se encaixa às suas preferências. Listamos aqui alguns exemplos:
+Nesta etapa você deverá usar ferramentas que te possibilitem responder as perguntas citadas acima. Se você já trabalha com bioinformática é bem possível que já tenha em seu cinto de ferramentas as de sua preferência. Caso este não seja o caso, sinta-se livre para buscar a que melhor se encaixa as suas preferências. Listamos aqui alguns exemplos:
 
 - [Samtools](http://www.htslib.org/): o verdadeiro canivete-suiço para quem trabalha com alinhamentos NGS.
 
