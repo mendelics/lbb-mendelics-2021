@@ -28,12 +28,12 @@ O desafio terá 3 etapas e ao longo da semana iremos disponibilizar os dados e m
 - [Prêmios](premios.md)
 
 
+## ❓ Duvidas?
 
-<!-- Site:
-http://www.mendelics.com.br/
+Fique a vontade para iniciar uma discussão na aba [*"Discussions"*](https://github.com/mendelics/lbb-mendelics-2021/discussions) do GitHub.
 
-Instagram:
-@mendelics
+## 👥 Recrutamento
 
-LinkedIn:
-https://www.linkedin.com/company/mendelics/  -->
+Caso tenha interesse em trabalhar conosco envie seu currículo para:
+
+Gupy: [Banco de Talentos - Pessoa #Bioinformata](https://mendelics.gupy.io/jobs/1273951?jobBoardSource=gupy_public_page)
