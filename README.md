@@ -28,7 +28,7 @@ O desafio terá 3 etapas e ao longo da semana iremos disponibilizar os dados e m
 - [Prêmios](premios.md)
 
 
-## ❓ Duvidas?
+## ❓ Dúvidas
 
 Fique a vontade para iniciar uma discussão na aba [*"Discussions"*](https://github.com/mendelics/lbb-mendelics-2021/discussions) do GitHub.
 
