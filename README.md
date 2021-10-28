@@ -12,7 +12,7 @@ Nossa proposta para o [desafio LBB 2021](https://lbb.ime.usp.br/desafio/desafio-
 
 O desafio terá 3 etapas e ao longo da semana iremos disponibilizar os dados e mais informações nos respectivos diretórios. 
 
-- `28/10/2021` [Genotipagem de um cromossomo](Dia_1/README.md)
+- 🚨 `28/10/2021` [Genotipagem de um cromossomo](Dia_1/README.md)
 
 - `29/10/2021` [Métricas de qualidade](Dia_2/README.md)
 

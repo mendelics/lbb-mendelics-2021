@@ -32,8 +32,27 @@ Nesta primeira fase do nosso desafio iremos identificar todas as variantes prese
 
 ## 👷 Tarefa
 
-🚧 Será divulgada às 12h do dia 28/10/21 🚧
+**Conseguir extrair as variantes encontradas no cromossomo 22 da amostra. Para tanto podem ser usadas quaisquer ferramentas.**
 
+### Downloads
+
+Deixamos os arquivos disponíveis no Google Drive, para baixar acesse o link e clique no botão "fazer download", no canto superior direito da tela.
+
+- [grch38.chr22.fasta.gz](https://drive.google.com/file/d/1tZj692JzzTRtxeuIPuOf3KVucB2q33Yv/view?usp=sharing) - Sequência referência com o cromossomo 22 do genoma humano GRCh38.
+- [amostra-lbb_R1.fq.gz](https://drive.google.com/file/d/1eosZV6s_T950IBKcSmcP4P-CKsGD11r8/view?usp=sharing) e [amostra-lbb_R1.fq.gz](https://drive.google.com/file/d/1hwIkyPvleAaha_Wmx_AXXExlvMYUBD0J/view?usp=sharing) - Leituras do sequenciamento (NovaSeq 6000).
+- [pequeno-gabarito.vcf](https://drive.google.com/file/d/1yI-28pC8b7k4X5m_mF35_8WpESVJimb6/view?usp=sharing) - Algumas variantes que esperamos que estejam em seu resultado. O arquivo é tão pequeno que nem usamos *bgzip*. **Usuários de macOS:** cuidado para que seu sistema não tente carregar o arquivo como [vCARD de contato](https://g.co/kgs/tU4jMR).
+
+
+### Resultados
+
+Ao fim dessa tarefa você deve enviar o VCF comprimido com *bgzip*. O competidor também deve enviar um *script* descrevendo como a tarefa foi executada.
+
+A nota desta fase será composta por:
+
+- [F1 score](https://en.wikipedia.org/wiki/F-score): o VCF entregue será comparado a nossa coleção de variantes a fim de obter a métrica. Iremos avaliar apenas as porções do genoma que são acessiveis via NGS.
+- *Script*: será usado como critério de desempate.
+
+É essencial a entrega de ambos arquivos: VCF e script (.sh, .nf, .wdl, .txt, etc).
 
 ## 🔗 Links
 
