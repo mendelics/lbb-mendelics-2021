@@ -22,6 +22,7 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 |---------------------------------------|-------|-------|-------|
 | Adriana Correa da Mota                | -     | -     | -     |
 | Ana Clara Emy Shiraiwa Kuniyoshi      | -     | -     | -     |
+| Ana Elisa Ribeiro Orsi                | -     | -     | -     |
 | Ana Luiza Meneguci Moreira Franco     | -     | -     | -     |
 | Aureliano Coelho Proença Guedes       | -     | -     | -     |
 | Bianca Bentes Gemaque                 | -     | -     | -     |
@@ -32,7 +33,6 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 | Daniela Feliz Barbosa Guerreiro       | -     | -     | -     |
 | Daniela Varela da Silva               | -     | -     | -     |
 | Elaine Vieira Sales                   | -     | -     | -     |
-| Elisa Ribeiro Orsi                    | -     | -     | -     |
 | Fabrício Alef Santos de Jesus         | -     | -     | -     |
 | Felipe Vaz Peres                      | -     | -     | -     |
 | Gabriel Silva Pires                   | -     | -     | -     |
