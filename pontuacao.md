@@ -24,8 +24,10 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 | Ana Clara Emy Shiraiwa Kuniyoshi      | -     | -     | -     |
 | Ana Elisa Ribeiro Orsi                | -     | -     | -     |
 | Ana Luiza Meneguci Moreira Franco     | -     | -     | -     |
+| Ariane Vieira Souza                   | -     | -     | -     |
 | Aureliano Coelho Proença Guedes       | -     | -     | -     |
 | Bianca Bentes Gemaque                 | -     | -     | -     |
+| Bidossessi Wilfried Hounkpe           | -     | -     | -     |
 | Bryan Augusto da Rosa Tavares         | -     | -     | -     |
 | Caio Andrey Bezerra Januário          | -     | -     | -     |
 | Camyla Luiz Gomes da Silva            | -     | -     | -     |
@@ -39,6 +41,7 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 | Greiciane Gaburro Paneto              | -     | -     | -     |
 | Guilherme de Aquino Alves             | -     | -     | -     |
 | Gustavo santos de Oliveira            | -     | -     | -     |
+| Heloísa Monteiro do Amaral Prado      | -     | -     | -     |
 | Hugo Martins Correia                  | -     | -     | -     |
 | Itatiana Ferreira Rodart              | -     | -     | -     |
 | Ivan Alisson Cavalcante Nunes De Lima | -     | -     | -     |
@@ -60,6 +63,7 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 | Matheus Santos Chaves                 | -     | -     | -     |
 | Milena de Lima Kanashiro              | -     | -     | -     |
 | Moníze Valéria Ramos da Silva         | -     | -     | -     |
+| Paulo Eduardo Toscano Soares          | -     | -     | -     |
 | Pietro Sanz Milone Silva              | -     | -     | -     |
 | Raul Maia Falcão                      | -     | -     | -     |
 | Rayane Kimberlly de Paula Araújo      | -     | -     | -     |
