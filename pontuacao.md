@@ -32,6 +32,7 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 | Daniela Feliz Barbosa Guerreiro       | -     | -     | -     |
 | Daniela Varela da Silva               | -     | -     | -     |
 | Elaine Vieira Sales                   | -     | -     | -     |
+| Elisa Ribeiro Orsi                    | -     | -     | -     |
 | Fabrício Alef Santos de Jesus         | -     | -     | -     |
 | Felipe Vaz Peres                      | -     | -     | -     |
 | Gabriel Silva Pires                   | -     | -     | -     |
