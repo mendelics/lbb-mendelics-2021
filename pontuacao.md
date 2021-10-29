@@ -20,64 +20,64 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 
 | Competidor                            | Dia 1 | Dia 2 | Dia 3 |
 |---------------------------------------|-------|-------|-------|
-| Adriana Correa da Mota                | -     | -     | -     |
-| Ana Clara Emy Shiraiwa Kuniyoshi      | -     | -     | -     |
+| Adriana Correa da Mota                | X     | -     | -     |
+| Ana Clara Emy Shiraiwa Kuniyoshi      | X     | -     | -     |
 | Ana Elisa Ribeiro Orsi                | -     | -     | -     |
-| Ana Luiza Meneguci Moreira Franco     | -     | -     | -     |
-| Ariane Vieira Souza                   | -     | -     | -     |
-| Aureliano Coelho Proença Guedes       | -     | -     | -     |
-| Bianca Bentes Gemaque                 | -     | -     | -     |
-| Bidossessi Wilfried Hounkpe           | -     | -     | -     |
-| Bryan Augusto da Rosa Tavares         | -     | -     | -     |
-| Caio Andrey Bezerra Januário          | -     | -     | -     |
-| Camyla Luiz Gomes da Silva            | -     | -     | -     |
-| Carlos Willian Dias Dantas            | -     | -     | -     |
-| Daniela Feliz Barbosa Guerreiro       | -     | -     | -     |
-| Daniela Varela da Silva               | -     | -     | -     |
+| Ana Luiza Meneguci Moreira Franco     | X     | -     | -     |
+| Ariane Vieira Souza                   | X     | -     | -     |
+| Aureliano Coelho Proença Guedes       | X     | -     | -     |
+| Bianca Bentes Gemaque                 | X     | -     | -     |
+| Bidossessi Wilfried Hounkpe           | X     | -     | -     |
+| Bryan Augusto da Rosa Tavares         | X     | -     | -     |
+| Caio Andrey Bezerra Januário          | X     | -     | -     |
+| Camyla Luiz Gomes da Silva            | X     | -     | -     |
+| Carlos Willian Dias Dantas            | X     | -     | -     |
+| Daniela Feliz Barbosa Guerreiro       | X     | -     | -     |
+| Daniela Varela da Silva               | X     | -     | -     |
 | Elaine Vieira Sales                   | -     | -     | -     |
-| Fabrício Alef Santos de Jesus         | -     | -     | -     |
+| Fabrício Alef Santos de Jesus         | X     | -     | -     |
 | Felipe Vaz Peres                      | -     | -     | -     |
-| Gabriel Silva Pires                   | -     | -     | -     |
-| Greiciane Gaburro Paneto              | -     | -     | -     |
+| Gabriel Silva Pires                   | X     | -     | -     |
+| Greiciane Gaburro Paneto              | X     | -     | -     |
 | Guilherme de Aquino Alves             | -     | -     | -     |
-| Gustavo santos de Oliveira            | -     | -     | -     |
-| Heloísa Monteiro do Amaral Prado      | -     | -     | -     |
-| Hugo Martins Correia                  | -     | -     | -     |
-| Itatiana Ferreira Rodart              | -     | -     | -     |
-| Ivan Alisson Cavalcante Nunes De Lima | -     | -     | -     |
-| Jéssica Lígia Picanço Machado         | -     | -     | -     |
-| João Francisco Figueiredo Miranda     | -     | -     | -     |
-| Julia maria saraiva duarte            | -     | -     | -     |
-| Karina Rosa da Silveira               | -     | -     | -     |
-| Larissa Silva Depa                    | -     | -     | -     |
-| Larisse Silva Depa                    | -     | -     | -     |
-| Letticia mallory santos cassim        | -     | -     | -     |
-| Lorena Melo de Jesus                  | -     | -     | -     |
-| Luana Bianca Silva Dantas             | -     | -     | -     |
-| Lucas Dantas de Oliveira              | -     | -     | -     |
-| Lucas Gabriel Santos de Miranda       | -     | -     | -     |
-| Lucio Rezende Queiroz                 | -     | -     | -     |
-| Marcelo A. C. Fernandes               | -     | -     | -     |
+| Gustavo santos de Oliveira            | X     | -     | -     |
+| Heloísa Monteiro do Amaral Prado      | X     | -     | -     |
+| Hugo Martins Correia                  | X     | -     | -     |
+| Itatiana Ferreira Rodart              | X     | -     | -     |
+| Ivan Alisson Cavalcante Nunes De Lima | X     | -     | -     |
+| Jéssica Lígia Picanço Machado         | X     | -     | -     |
+| João Francisco Figueiredo Miranda     | X     | -     | -     |
+| Julia maria saraiva duarte            | X     | -     | -     |
+| Karina Rosa da Silveira               | X     | -     | -     |
+| Larissa Silva Depa                    | X     | -     | -     |
+| Larisse Silva Depa                    | X     | -     | -     |
+| Letticia mallory santos cassim        | X     | -     | -     |
+| Lorena Melo de Jesus                  | X     | -     | -     |
+| Luana Bianca Silva Dantas             | X     | -     | -     |
+| Lucas Dantas de Oliveira              | X     | -     | -     |
+| Lucas Gabriel Santos de Miranda       | X     | -     | -     |
+| Lucio Rezende Queiroz                 | X     | -     | -     |
+| Marcelo A. C. Fernandes               | X     | -     | -     |
 | Marco Antônio Marques Pretti          | -     | -     | -     |
-| Marco Aurelio Gemaque Cantuaria       | -     | -     | -     |
-| Matheus Santos Chaves                 | -     | -     | -     |
-| Milena de Lima Kanashiro              | -     | -     | -     |
-| Moníze Valéria Ramos da Silva         | -     | -     | -     |
-| Paulo Eduardo Toscano Soares          | -     | -     | -     |
-| Pietro Sanz Milone Silva              | -     | -     | -     |
+| Marco Aurelio Gemaque Cantuaria       | X     | -     | -     |
+| Matheus Santos Chaves                 | X     | -     | -     |
+| Milena de Lima Kanashiro              | X     | -     | -     |
+| Moníze Valéria Ramos da Silva         | X     | -     | -     |
+| Paulo Eduardo Toscano Soares          | X     | -     | -     |
+| Pietro Sanz Milone Silva              | X     | -     | -     |
 | Raul Maia Falcão                      | -     | -     | -     |
-| Rayane Kimberlly de Paula Araújo      | -     | -     | -     |
-| Regiane Silva da Luz                  | -     | -     | -     |
+| Rayane Kimberlly de Paula Araújo      | X     | -     | -     |
+| Regiane Silva da Luz                  | X     | -     | -     |
 | Renan Weege Achjian                   | -     | -     | -     |
 | Ricardo Piuco                         | -     | -     | -     |
 | Rodrigo Theodoro Rocha                | -     | -     | -     |
-| Sara Maria Xavier da Cruz             | -     | -     | -     |
-| Tatianne Costa Negri                  | -     | -     | -     |
+| Sara Maria Xavier da Cruz             | X     | -     | -     |
+| Tatianne Costa Negri                  | X     | -     | -     |
 | Thalita Camêlo da Silva Ferreira      | -     | -     | -     |
-| Thayná de Matos Chaves                | -     | -     | -     |
-| Tiago Henrique                        | -     | -     | -     |
+| Thayná de Matos Chaves                | X     | -     | -     |
+| Tiago Henrique                        | X     | -     | -     |
 | Tiago Koji Castro Shibata             | -     | -     | -     |
-| Túlio Cosme de Carvalho Pachêco       | -     | -     | -     |
+| Túlio Cosme de Carvalho Pachêco       | X     | -     | -     |
 | Vanessa Leiko Oikawa Cardoso          | -     | -     | -     |
-| Vanessa marinho da Silva              | -     | -     | -     |
-| Vinícius Rodrigues Soares             | -     | -     | -     |
+| Vanessa marinho da Silva              | X     | -     | -     |
+| Vinícius Rodrigues Soares             | X     | -     | -     |
