@@ -22,7 +22,7 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 |---------------------------------------|-------|-------|-------|
 | Adriana Correa da Mota                | X     | -     | -     |
 | Ana Clara Emy Shiraiwa Kuniyoshi      | X     | -     | -     |
-| Ana Elisa Ribeiro Orsi                | -     | -     | -     |
+| Ana Elisa Ribeiro Orsi                | OK    | -     | -     |
 | Ana Luiza Meneguci Moreira Franco     | X     | -     | -     |
 | Ariane Vieira Souza                   | X     | -     | -     |
 | Aureliano Coelho Proença Guedes       | X     | -     | -     |
@@ -34,12 +34,12 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 | Carlos Willian Dias Dantas            | X     | -     | -     |
 | Daniela Feliz Barbosa Guerreiro       | X     | -     | -     |
 | Daniela Varela da Silva               | X     | -     | -     |
-| Elaine Vieira Sales                   | -     | -     | -     |
+| Elaine Vieira Sales                   | OK    | -     | -     |
 | Fabrício Alef Santos de Jesus         | X     | -     | -     |
-| Felipe Vaz Peres                      | -     | -     | -     |
+| Felipe Vaz Peres                      | OK    | -     | -     |
 | Gabriel Silva Pires                   | X     | -     | -     |
 | Greiciane Gaburro Paneto              | X     | -     | -     |
-| Guilherme de Aquino Alves             | -     | -     | -     |
+| Guilherme de Aquino Alves             | OK    | -     | -     |
 | Gustavo santos de Oliveira            | X     | -     | -     |
 | Heloísa Monteiro do Amaral Prado      | X     | -     | -     |
 | Hugo Martins Correia                  | X     | -     | -     |
@@ -58,26 +58,26 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 | Lucas Gabriel Santos de Miranda       | X     | -     | -     |
 | Lucio Rezende Queiroz                 | X     | -     | -     |
 | Marcelo A. C. Fernandes               | X     | -     | -     |
-| Marco Antônio Marques Pretti          | -     | -     | -     |
+| Marco Antônio Marques Pretti          | OK    | -     | -     |
 | Marco Aurelio Gemaque Cantuaria       | X     | -     | -     |
 | Matheus Santos Chaves                 | X     | -     | -     |
 | Milena de Lima Kanashiro              | X     | -     | -     |
 | Moníze Valéria Ramos da Silva         | X     | -     | -     |
 | Paulo Eduardo Toscano Soares          | X     | -     | -     |
 | Pietro Sanz Milone Silva              | X     | -     | -     |
-| Raul Maia Falcão                      | -     | -     | -     |
+| Raul Maia Falcão                      | OK    | -     | -     |
 | Rayane Kimberlly de Paula Araújo      | X     | -     | -     |
 | Regiane Silva da Luz                  | X     | -     | -     |
-| Renan Weege Achjian                   | -     | -     | -     |
-| Ricardo Piuco                         | -     | -     | -     |
-| Rodrigo Theodoro Rocha                | -     | -     | -     |
+| Renan Weege Achjian                   | OK    | -     | -     |
+| Ricardo Piuco                         | OK    | -     | -     |
+| Rodrigo Theodoro Rocha                | OK    | -     | -     |
 | Sara Maria Xavier da Cruz             | X     | -     | -     |
 | Tatianne Costa Negri                  | X     | -     | -     |
-| Thalita Camêlo da Silva Ferreira      | -     | -     | -     |
+| Thalita Camêlo da Silva Ferreira      | OK    | -     | -     |
 | Thayná de Matos Chaves                | X     | -     | -     |
 | Tiago Henrique                        | X     | -     | -     |
-| Tiago Koji Castro Shibata             | -     | -     | -     |
+| Tiago Koji Castro Shibata             | OK    | -     | -     |
 | Túlio Cosme de Carvalho Pachêco       | X     | -     | -     |
-| Vanessa Leiko Oikawa Cardoso          | -     | -     | -     |
+| Vanessa Leiko Oikawa Cardoso          | OK    | -     | -     |
 | Vanessa marinho da Silva              | X     | -     | -     |
 | Vinícius Rodrigues Soares             | X     | -     | -     |
