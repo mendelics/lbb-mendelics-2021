@@ -5,10 +5,10 @@
 </p>
 
 Acesso rápido:
-- [Controle de versão](#📌-controle-de-versão)
-- [Workflow de análise](#📌-workflow-de-análise)
-- [Dependências do projeto](#📌-dependências-do-projeto)
-- [Scripts customizados](#📌-scripts-customizados)
+- [Controle de versão](#-controle-de-versão)
+- [Workflow de análise](#-workflow-de-análise)
+- [Dependências do projeto](#-dependências-do-projeto)
+- [Scripts customizados](#-scripts-customizados)
 
 ---
 ## 📌 Controle de versão
