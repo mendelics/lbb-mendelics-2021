@@ -42,8 +42,28 @@ Caso você tenha mais experiência fora da computação e esteja embarcando apen
 
 ## 👷 Tarefa
 
-🚧 Será divulgada às 12h do dia 29/10/21 🚧
+**Conseguir extrair informações sobre as variantes encontradas. Para isso usem quaisquer ferramentas.**
 
+### Downloads
+
+Deixamos os arquivos disponíveis no Google Drive, para baixar acesse o link e clique no botão "fazer download", no canto superior direito da tela.
+
+- [BED cobertura esperada](https://drive.google.com/file/d/17-vrNzHEMyH7VEV1_91WgG4Bcpr_QDak/view?usp=sharing) - Segundo o fabricante;
+
+### Resolver as seguintes questões
+
+1) Quais variantes deverão ser desconsideradas no seu VCF? - Qualquer métrica do software de escolha poderá ser utilizada. Discorra sobre a métrica utilizada.
+
+2) Discorra sobre as regiões com baixa cobertura e quais foram seus critérios. Figuras são bem-vindas.
+
+3) Obter informações sobre seu alinhamento. Quantos reads? Qual a porcentagem deles que foi mapeada corretamente? Muitos alinharam em mais de um local do genoma com a mesma qualidade?
+
+### Resultados
+
+- Para a questão 1 deverá ser enviado o VCF pós-filtragem.
+- Para a questão 2 deverá ser enviado um BED, contendo as regiões não cobertas.
+- Para a terceira questão deverá ser enviado um arquivo TSV, com as colunas "nreads" (número de reads usados),   "proper_pairs" (pares mapeados corretamente), "mapQ_0" (número de reads com qualidade de mapeamento == 0)
+- Sendo que a parte escrita das questões deverá ser enviada em um arquivo de texto (no próprio `README.md`, por exemplo).
 
 ## 🔗 Links
 
