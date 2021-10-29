@@ -33,7 +33,7 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 | Camyla Luiz Gomes da Silva            | X     | -     | -     |
 | Carlos Willian Dias Dantas            | X     | -     | -     |
 | Daniela Feliz Barbosa Guerreiro       | X     | -     | -     |
-| Daniela Varela da Silva               | X     | -     | -     |
+| Daniela Varela da Silva               | OK     | -     | -     |
 | Elaine Vieira Sales                   | OK    | -     | -     |
 | Fabrício Alef Santos de Jesus         | X     | -     | -     |
 | Felipe Vaz Peres                      | OK    | -     | -     |
