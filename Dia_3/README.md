@@ -22,7 +22,21 @@ Apesar de termos citado como exemplo algumas ferramentas, fique a vontade para e
 
 ## 👷 Tarefa
 
-🚧 Será divulgada às 12h do dia 30/10/21 🚧
+**Mais QC e utilização de bancos de dados públicos**
+
+- Obtenha a razão Ti/Tv (*transitions* e *transversions*) das variantes encontrada no cromossomo 22.
+- Quantas variantes são encontradas na região de 16000000 a 20000000?
+- Exiba o conteúdo da linha do VCF relativa a uma variante:
+  - Não-sinônima..
+  - Variante no gnomAD v3.1.1 com MAF < 0.01.
+
+### Resultados
+
+- Disponibilize o VCF usado no calculo de Ti/Tv.
+- Um documento com os dados solicitados na tarefa
+
+A nota será definida por:
+25% - Para cada questão apontada.
 
 ## 🔗 Links
 
