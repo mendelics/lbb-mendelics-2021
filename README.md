@@ -14,9 +14,9 @@ O desafio terá 3 etapas e ao longo da semana iremos disponibilizar os dados e m
 
 - `28/10/2021` [Genotipagem de um cromossomo](Dia_1/README.md)
 
-- 🚨 `29/10/2021` [Métricas de qualidade](Dia_2/README.md)
+- `29/10/2021` [Métricas de qualidade](Dia_2/README.md)
 
-- `30/10/2021` [Investigando as variantes](Dia_3/README.md)
+- 🚨 `30/10/2021` [Investigando as variantes](Dia_3/README.md)
 
 
 ## 🗃 Material de apoio
