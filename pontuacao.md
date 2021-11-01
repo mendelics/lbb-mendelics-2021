@@ -20,64 +20,64 @@ Iremos listar aqui o recebimento do trabalho de cada um dos candidatos. Se você
 
 | Competidor                            | Dia 1 | Dia 2 | Dia 3 |
 |---------------------------------------|-------|-------|-------|
-| Adriana Correa da Mota                | X     | -     | -     |
-| Ana Clara Emy Shiraiwa Kuniyoshi      | X     | -     | -     |
-| Ana Elisa Ribeiro Orsi                | OK    | -     | -     |
-| Ana Luiza Meneguci Moreira Franco     | X     | -     | -     |
-| Ariane Vieira Souza                   | X     | -     | -     |
-| Aureliano Coelho Proença Guedes       | X     | -     | -     |
-| Bianca Bentes Gemaque                 | X     | -     | -     |
-| Bidossessi Wilfried Hounkpe           | X     | -     | -     |
-| Bryan Augusto da Rosa Tavares         | X     | -     | -     |
-| Caio Andrey Bezerra Januário          | X     | -     | -     |
-| Camyla Luiz Gomes da Silva            | X     | -     | -     |
-| Carlos Willian Dias Dantas            | X     | -     | -     |
-| Daniela Feliz Barbosa Guerreiro       | X     | -     | -     |
-| Daniela Varela da Silva               | OK     | -     | -     |
-| Elaine Vieira Sales                   | OK    | -     | -     |
-| Fabrício Alef Santos de Jesus         | X     | -     | -     |
-| Felipe Vaz Peres                      | OK    | -     | -     |
-| Gabriel Silva Pires                   | X     | -     | -     |
-| Greiciane Gaburro Paneto              | X     | -     | -     |
-| Guilherme de Aquino Alves             | OK    | -     | -     |
-| Gustavo santos de Oliveira            | X     | -     | -     |
-| Heloísa Monteiro do Amaral Prado      | X     | -     | -     |
-| Hugo Martins Correia                  | X     | -     | -     |
-| Itatiana Ferreira Rodart              | X     | -     | -     |
-| Ivan Alisson Cavalcante Nunes De Lima | X     | -     | -     |
-| Jéssica Lígia Picanço Machado         | X     | -     | -     |
-| João Francisco Figueiredo Miranda     | X     | -     | -     |
-| Julia maria saraiva duarte            | X     | -     | -     |
-| Karina Rosa da Silveira               | X     | -     | -     |
-| Larissa Silva Depa                    | X     | -     | -     |
-| Larisse Silva Depa                    | X     | -     | -     |
-| Letticia mallory santos cassim        | X     | -     | -     |
-| Lorena Melo de Jesus                  | X     | -     | -     |
-| Luana Bianca Silva Dantas             | X     | -     | -     |
-| Lucas Dantas de Oliveira              | X     | -     | -     |
-| Lucas Gabriel Santos de Miranda       | X     | -     | -     |
-| Lucio Rezende Queiroz                 | X     | -     | -     |
-| Marcelo A. C. Fernandes               | X     | -     | -     |
-| Marco Antônio Marques Pretti          | OK    | -     | -     |
-| Marco Aurelio Gemaque Cantuaria       | X     | -     | -     |
-| Matheus Santos Chaves                 | X     | -     | -     |
-| Milena de Lima Kanashiro              | X     | -     | -     |
-| Moníze Valéria Ramos da Silva         | X     | -     | -     |
-| Paulo Eduardo Toscano Soares          | X     | -     | -     |
-| Pietro Sanz Milone Silva              | X     | -     | -     |
-| Raul Maia Falcão                      | OK    | -     | -     |
-| Rayane Kimberlly de Paula Araújo      | X     | -     | -     |
-| Regiane Silva da Luz                  | X     | -     | -     |
-| Renan Weege Achjian                   | OK    | -     | -     |
-| Ricardo Piuco                         | OK    | -     | -     |
-| Rodrigo Theodoro Rocha                | OK    | -     | -     |
-| Sara Maria Xavier da Cruz             | X     | -     | -     |
-| Tatianne Costa Negri                  | X     | -     | -     |
-| Thalita Camêlo da Silva Ferreira      | OK    | -     | -     |
-| Thayná de Matos Chaves                | X     | -     | -     |
-| Tiago Henrique                        | X     | -     | -     |
-| Tiago Koji Castro Shibata             | OK    | -     | -     |
-| Túlio Cosme de Carvalho Pachêco       | X     | -     | -     |
-| Vanessa Leiko Oikawa Cardoso          | OK    | -     | -     |
-| Vanessa marinho da Silva              | X     | -     | -     |
-| Vinícius Rodrigues Soares             | X     | -     | -     |
+| Adriana Correa da Mota                | X     | X     | X     |
+| Ana Clara Emy Shiraiwa Kuniyoshi      | X     | X     | X     |
+| Ana Elisa Ribeiro Orsi                | OK    | OK    | OK    |
+| Ana Luiza Meneguci Moreira Franco     | X     | X     | X     |
+| Ariane Vieira Souza                   | X     | X     | X     |
+| Aureliano Coelho Proença Guedes       | X     | X     | X     |
+| Bianca Bentes Gemaque                 | X     | X     | X     |
+| Bidossessi Wilfried Hounkpe           | X     | X     | X     |
+| Bryan Augusto da Rosa Tavares         | X     | X     | X     |
+| Caio Andrey Bezerra Januário          | X     | X     | X     |
+| Camyla Luiz Gomes da Silva            | X     | X     | X     |
+| Carlos Willian Dias Dantas            | X     | X     | X     |
+| Daniela Feliz Barbosa Guerreiro       | X     | X     | X     |
+| Daniela Varela da Silva               | OK    | X     | X     |
+| Elaine Vieira Sales                   | X     | X     | X     |
+| Fabrício Alef Santos de Jesus         | X     | X     | X     |
+| Felipe Vaz Peres                      | OK    | OK    | OK    |
+| Gabriel Silva Pires                   | X     | X     | X     |
+| Greiciane Gaburro Paneto              | X     | X     | X     |
+| Guilherme de Aquino Alves             | OK    | OK    | OK    |
+| Gustavo santos de Oliveira            | X     | X     | X     |
+| Heloísa Monteiro do Amaral Prado      | X     | X     | X     |
+| Hugo Martins Correia                  | X     | X     | X     |
+| Itatiana Ferreira Rodart              | X     | X     | X     |
+| Ivan Alisson Cavalcante Nunes De Lima | X     | X     | X     |
+| Jéssica Lígia Picanço Machado         | X     | X     | X     |
+| João Francisco Figueiredo Miranda     | X     | X     | X     |
+| Julia maria saraiva duarte            | X     | X     | X     |
+| Karina Rosa da Silveira               | X     | X     | X     |
+| Larissa Silva Depa                    | X     | X     | X     |
+| Larisse Silva Depa                    | X     | X     | X     |
+| Letticia mallory santos cassim        | X     | X     | X     |
+| Lorena Melo de Jesus                  | X     | X     | X     |
+| Luana Bianca Silva Dantas             | X     | X     | X     |
+| Lucas Dantas de Oliveira              | X     | X     | X     |
+| Lucas Gabriel Santos de Miranda       | X     | X     | X     |
+| Lucio Rezende Queiroz                 | X     | X     | X     |
+| Marcelo A. C. Fernandes               | X     | X     | X     |
+| Marco Antônio Marques Pretti          | OK    | OK    | OK    |
+| Marco Aurelio Gemaque Cantuaria       | X     | X     | X     |
+| Matheus Santos Chaves                 | X     | X     | X     |
+| Milena de Lima Kanashiro              | X     | X     | X     |
+| Moníze Valéria Ramos da Silva         | X     | X     | X     |
+| Paulo Eduardo Toscano Soares          | X     | X     | X     |
+| Pietro Sanz Milone Silva              | X     | X     | X     |
+| Raul Maia Falcão                      | OK    | OK    | OK    |
+| Rayane Kimberlly de Paula Araújo      | X     | X     | X     |
+| Regiane Silva da Luz                  | X     | X     | X     |
+| Renan Weege Achjian                   | OK    | OK    | OK    |
+| Ricardo Piuco                         | OK    | X     | X     |
+| Rodrigo Theodoro Rocha                | OK    | OK    | X     |
+| Sara Maria Xavier da Cruz             | X     | X     | X     |
+| Tatianne Costa Negri                  | X     | X     | X     |
+| Thalita Camêlo da Silva Ferreira      | OK    | OK    | OK    |
+| Thayná de Matos Chaves                | X     | X     | X     |
+| Tiago Henrique                        | X     | X     | X     |
+| Tiago Koji Castro Shibata             | OK    | OK    | OK    |
+| Túlio Cosme de Carvalho Pachêco       | X     | X     | X     |
+| Vanessa Leiko Oikawa Cardoso          | OK    | X     | X     |
+| Vanessa marinho da Silva              | X     | X     | X     |
+| Vinícius Rodrigues Soares             | X     | X     | X     |
