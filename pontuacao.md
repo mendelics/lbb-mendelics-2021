@@ -4,6 +4,18 @@
   <img width=600 src="img/pontuacao.png" alt="Ilustração Mendelics">
 </p>
 
+Selecionados:
+
+1. Renan Weege Achjian
+2. Ana Elisa Ribeiro Orsi
+3. Felipe Vaz Peres
+
+Parabéns aos participantes. Todos que passaram do primeiro dia da competição entregaram relatórios bem detalhados. Foi difícil decidirmos os três melhores!
+
+Quem tiver interesse em participar de uma entrevista (ainda a marcar) por favor envie um email para: bgyhbw7jh@mozmail.com, informando seu nome e que participou deste desafio.
+
+---
+
 Iremos avaliar as respostas segundo dois critérios:
 
 **Objetivo:** iremos comparar os valores encontrados pelos candidatos com os que temos em nossas análises. Os dados fornecidos são de um individuo que frequentemente realizamos testes.
